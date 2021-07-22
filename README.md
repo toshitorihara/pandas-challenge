@@ -1,4 +1,4 @@
-# 1. Heroes of Pymoli
+# Heroes of Pymoli
 
 <p align="center">
 <img src="https://github.com/toshitorihara/pandas-challenge/blob/main/Images/Fantasy.png" height="60%" width="60%">
@@ -12,7 +12,7 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 * Create a [**Jupyter Notebook**](HeroesOfPymoli/HeroesOfPymoli_final.ipynb) using Pandas Library including a written description of **"three observable trends"** based on the data. 
 * Submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
 
-# 2. PyCitySchools
+# PyCitySchools
 
 <p align="center">
 <img src="https://github.com/toshitorihara/pandas-challenge/blob/main/Images/education.png" height="60%" width="60%">
